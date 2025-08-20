@@ -43,7 +43,10 @@ streamlit run app.py
 
 📊 Sample Output
 
-Prediction Result: "High Risk" or "Low Risk"
+<img width="957" height="768" alt="Screenshot 2025-08-20 212248" src="https://github.com/user-attachments/assets/78fa203b-cbf1-4c36-8f33-70e17072d696" />
+
+
+Prediction Result: "Diabetic" or "Non Diabetic"
 Confusion Matrix & Accuracy Score for performance evaluation
 
 📚 Learnings
